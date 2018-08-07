@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\bin\WebAppSocket.dll.config
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\bin\WebAppSocket.dll
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\bin\WebAppSocket.pdb
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\obj\Debug\WebAppSocket.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\obj\Debug\WebAppSocket.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\obj\Debug\WebAppSocket.dll
+C:\inetpub\wwwroot2\RandD\WebApiSocket\WebAppSocket\obj\Debug\WebAppSocket.pdb
